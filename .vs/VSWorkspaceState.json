@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\fixtures",
+    "\\cypress\\pageObjects",
+    "\\cypress\\pageObjects\\products",
+    "\\lib",
+    "\\uploads",
+    "\\views",
+    "\\views\\themes"
+  ],
+  "PreviewInSolutionExplorer": false
+}
